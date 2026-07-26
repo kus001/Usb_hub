@@ -43,3 +43,14 @@ There is also a silkscreen, which was used to display the cool graphics!
 Because this was my first custom PCB project, I followed the guide that was provided by Macondo and tailored it to me. For instance, I do not use many peripherals that require a usb-c port, so I reduced the number of usb-c ports and added more usb-a ports. 
 
 I specifically chose to make a USB Hub because it would be VERY useful in my day-to-day life. I use a lot of peripherals and having a USB Hub would centralize all the connections so I can locate them easily. And also, making something on your own is SO MUCH MORE FUN than just buying something!
+
+## BOM
+
+|No.|Quantity|Comment              |Designator              |Footprint                       |Value|Manufacturer Part    |Manufacturer   |Supplier Part|Supplier|JLCPCB Price|LCSC Price|
+|---|--------|---------------------|------------------------|--------------------------------|-----|---------------------|---------------|-------------|--------|------------|----------|
+|1  |8       |1uF                  |C1,C2,C3,C4,C5,C6,C8,C10|C0603                           |1uF  |                     |               |             |        |            |0.1088    |
+|2  |3       |100nF                |C7,C9,C11               |C0603                           |100nF|                     |               |             |        |            |0.1088    |
+|3  |4       |5.1K                 |R1,R2,R3,R4             |R0603                           |5.1K |                     |               |             |        |            |0.1088    |
+|4  |1       |SL2.1s               |U1                      |SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL|     |SL2.1s               |CoreChips(和芯润德)|C2684433     |LCSC    |0.0375      |          |
+|5  |2       |TYPE-C 16PIN 2MD(073)|USB1,USB5               |USB-C-SMD_TYPE-C-16PIN-2MD-073  |     |TYPE-C 16PIN 2MD(073)|SHOU HAN(首韩)   |C2765186     |LCSC    |0.011       |          |
+|6  |3       |10.0 QHHTZB6.3       |USB2,USB3,USB4          |USB-A-TH_10.0QHHTZB6.3          |     |10.0 QHHTZB6.3       |SHOU HAN(首韩)   |C668591      |LCSC    |0.0099      |          |
