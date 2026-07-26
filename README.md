@@ -54,3 +54,7 @@ I specifically chose to make a USB Hub because it would be VERY useful in my day
 |4  |1       |SL2.1s               |U1                      |SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL|     |SL2.1s               |CoreChips(和芯润德)|C2684433     |LCSC    |0.0375      |          |
 |5  |2       |TYPE-C 16PIN 2MD(073)|USB1,USB5               |USB-C-SMD_TYPE-C-16PIN-2MD-073  |     |TYPE-C 16PIN 2MD(073)|SHOU HAN(首韩)   |C2765186     |LCSC    |0.011       |          |
 |6  |3       |10.0 QHHTZB6.3       |USB2,USB3,USB4          |USB-A-TH_10.0QHHTZB6.3          |     |10.0 QHHTZB6.3       |SHOU HAN(首韩)   |C668591      |LCSC    |0.0099      |          |
+
+## Extra Links
+
+https://pro.easyeda.com/editor#id=dec0bcfabd154546ab83496973960e18
